@@ -1,3 +1,4 @@
+```
 
 |                                                              |
 |                         LibreLicence                         |
@@ -12,3 +13,4 @@ It and all derived works are and always be free and open to all.
 
 | Nam medium nil esse potest quando omnia constant infinita... |
 
+```
