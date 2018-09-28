@@ -13,7 +13,8 @@
            somewhere in the dark vastness of space.
            An instance of existence
            that is now everywhere and everyone's.
-           It and all derived creations are and always will be
+           It and all derived creations
+           are and always will be
            free and open to all.
 
       ______________________________________________________________
